@@ -1,0 +1,5 @@
+package br.com.serratec.trabalho1.cinema.Repository;
+
+public interface filmeRepository {
+
+}

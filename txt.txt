@@ -1,0 +1,27 @@
+3 paginas diferentes
+
+
+Filme 
+
+pk id_filme
+nome_br 
+Nome_en
+ano_lança
+sipse
+id-diretor
+Id_genero
+
+Diretor
+
+pk_diretor
+nome
+
+Genero
+
+pk_genero
+descricao
+
+Entity
+repositorio
+service
+Controle
